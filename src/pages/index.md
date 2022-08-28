@@ -6,6 +6,9 @@ fonction: 'Enseignante '
 adresse: Balbal, Djibouti
 email: abdi842711@gmail.com
 telephone: "+253 77115642"
+skills:
+- pourcentage: 100
+  nom: Enseignante d'Anglais
 
 ---
 # hello!
