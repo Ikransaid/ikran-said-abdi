@@ -8,7 +8,7 @@ email: abdi842711@gmail.com
 telephone: "+253 77115642"
 skills:
 - pourcentage: 100
-  nom: Enseignante d'Anglais
+  nom: Enseignante d' Anglais
 - nom: Connaissance Bureautique
   pourcentage: 100
 - nom: Comptabilite General
