@@ -11,6 +11,7 @@ sections:
   match: "**/*"
   templates:
   - cv
+  - cv
 - type: document
   path: src/pages/index.md
   label: Cv
