@@ -7,6 +7,8 @@ adresse: Balbal, Djibouti
 email: abdi842711@gmail.com
 telephone: "+253 77115642"
 skills:
+- nom: Developpement de web
+  pourcentage: 50
 - nom: Logiciel Sage Comptabilité
   pourcentage: 90
 - nom: Comptabilite General
